@@ -11,6 +11,7 @@ COPY install/. /root/.
 RUN /root/install.sh
 
 COPY conf/pipelinedb.conf /root/.
+COPY conf/pg_hba.conf /root/.
 RUN /root/prepare_test.sh
 
 EXPOSE 5432
