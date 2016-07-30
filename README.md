@@ -10,6 +10,9 @@ pipelinedb docker container - https://hub.docker.com/r/lukess/pipelinedb
 
 ```
 $ docker run -v /dev/shm:/dev/shm --name pdb -d lukess/pipelinedb
+or
+$ docker run -v /dev/shm:/dev/shm --name pdb -p 5432:5432 -d lukess/pipelinedb
+
 $ docker exec -it pdb bash
 ```
 
