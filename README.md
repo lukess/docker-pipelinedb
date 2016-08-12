@@ -4,7 +4,7 @@
 pipelinedb docker container - https://hub.docker.com/r/lukess/pipelinedb
 
 * ubuntu 16.04
-* pipelinedb 0.9.3
+* pipelinedb 0.9.5
 * init_dumb
 * pgcrypto (by postgresql-contrib-9.5)
 
