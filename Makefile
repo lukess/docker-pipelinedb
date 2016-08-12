@@ -1,5 +1,5 @@
 IMAGE=lukess/pipelinedb
-VERSION=0.9.3
+VERSION=0.9.5
 
 all:
 

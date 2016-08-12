@@ -4,7 +4,7 @@ MAINTAINER lukess <luke.skywalker.sun@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV TERM xterm-256color
-ENV PDBVER 0.9.3
+ENV PDBVER 0.9.5
 ENV PGVER 9.5
 
 COPY install/. /root/.
