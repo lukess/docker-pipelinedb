@@ -1,5 +1,6 @@
 # docker-pipelinedb
-[![](https://imagelayers.io/badge/lukess/pipelinedb:latest.svg)](https://imagelayers.io/?images=lukess/pipelinedb:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/lukess/pipelinedb.svg)](http://microbadger.com/images/lukess/pipelinedb "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/lukess/pipelinedb.svg)](http://microbadger.com/images/lukess/pipelinedb "Get your own version badge on microbadger.com")
 
 pipelinedb docker container - https://hub.docker.com/r/lukess/pipelinedb
 
